@@ -44,4 +44,4 @@ contibuting is FUN !!! you should contribute if you want to, it would help a lot
 
 ## license
 
-license under [MIT](LICENSE) i think
+license under [MIT](LICENSE)
