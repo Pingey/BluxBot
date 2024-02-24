@@ -18,8 +18,8 @@ place em in `.env` in the root directory
 
 1. **clone the repository:**
    ```
-   git clone https://github.com/yourusername/your-bot-repo
-   cd your-bot-repo
+   git clone https://github.com/Pingey/BluxBot
+   cd BluxBot
    ```
 
 2. **install the dependencies:**
